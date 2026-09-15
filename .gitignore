@@ -1,3 +1,4 @@
+@"
 .idea/
 .vscode/*
 !.vscode/extensions.json
@@ -6,3 +7,4 @@
 .env
 .env.*
 !.env.example
+"@ | Out-File -FilePath .gitignore -Encoding utf8
