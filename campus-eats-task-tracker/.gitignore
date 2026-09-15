@@ -1,0 +1,8 @@
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+
+.env
+.env.*
+!.env.example
